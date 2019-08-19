@@ -29,6 +29,7 @@ public class HelloWorld extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		system.out.println("Hello......");
+		System.out.println("zxcvb");
 		response.getWriter().append("<h1>Hello World...</h1> <br />");
 	}
 
