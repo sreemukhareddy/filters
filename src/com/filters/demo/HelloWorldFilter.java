@@ -28,6 +28,7 @@ public class HelloWorldFilter implements Filter {
 	 */
 	public void destroy() {
 		System.out.println("asdfghj");
+		System.out.println("1111....2222");
 		System.out.println("Destroy the filter..!");
 	}
 
