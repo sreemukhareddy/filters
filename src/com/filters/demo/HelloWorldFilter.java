@@ -44,7 +44,8 @@ public class HelloWorldFilter implements Filter {
 	 * @see Filter#init(FilterConfig)
 	 */
 	public void init(FilterConfig fConfig) throws ServletException {
-		System.out.println("Initialize the filter..!");
+		System.out.println("Initialize the filter111..!");
+		System.out.println("Initialize the filter222..!");
 	}
 
 }
